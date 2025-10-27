@@ -37,3 +37,5 @@ print(T[6])
 
 # type()
 print(type(T))
+
+
